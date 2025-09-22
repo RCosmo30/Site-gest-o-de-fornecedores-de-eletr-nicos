@@ -46,6 +46,7 @@ export default function CadastroFornecedor() {
         onChange={(e) => setSenha(e.target.value)}
         required
       />
+      
       <button type="submit">Cadastrar</button>
       {success && <span className="success">{success}</span>}
       {error && <span className="error">{error}</span>}
