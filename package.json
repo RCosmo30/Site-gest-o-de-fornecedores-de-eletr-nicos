@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "fastapi": "^0.0.8",
+    "git": "^0.1.5",
+    "jinja2": "^0.0.1",
+    "pydantic": "^0.0.1-security",
+    "python": "^0.0.4",
+    "uvicorn": "^0.0.1-security"
+  }
+}
